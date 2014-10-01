@@ -1,0 +1,292 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CollapsableTableViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1039, 741}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 568}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CollapsableTableViewAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1040}}";
+			sepNavSelRange = "{323, 0}";
+			sepNavVisRange = "{0, 2035}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CollapsableTableView */ = {
+		activeExec = 0;
+		executables = (
+			6FD36D0B1342659600303181 /* CollapsableTableView */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CollapsableTableViewViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1039, 741}}";
+			sepNavSelRange = "{321, 0}";
+			sepNavVisRange = "{0, 332}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CollapsableTableViewViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1039, 1495}}";
+			sepNavSelRange = "{1616, 0}";
+			sepNavVisRange = "{1187, 1685}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6FD36D0B1342659600303181 /* CollapsableTableView */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CollapsableTableView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CollapsableTableView */,
+		);
+		codeSenseManager = 6FD36D1C134265A600303181 /* Code sense */;
+		executables = (
+			6FD36D0B1342659600303181 /* CollapsableTableView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					861,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					821,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323725587;
+			PBXWorkspaceStateSaveDate = 323725587;
+		};
+		perUserProjectItems = {
+			6F2A9588134BA98A0042C437 /* PBXTextBookmark */ = 6F2A9588134BA98A0042C437 /* PBXTextBookmark */;
+			6F2A9589134BA98A0042C437 /* PBXTextBookmark */ = 6F2A9589134BA98A0042C437 /* PBXTextBookmark */;
+			6F2A95BA134BB0B80042C437 /* PBXTextBookmark */ = 6F2A95BA134BB0B80042C437 /* PBXTextBookmark */;
+			6F7FD7A91348F110005ED486 /* PBXTextBookmark */ = 6F7FD7A91348F110005ED486 /* PBXTextBookmark */;
+			6F7FD8431348FF08005ED486 /* PBXTextBookmark */ = 6F7FD8431348FF08005ED486 /* PBXTextBookmark */;
+			6F7FD84613490014005ED486 /* PBXTextBookmark */ = 6F7FD84613490014005ED486 /* PBXTextBookmark */;
+			6F7FD88513490492005ED486 /* PBXTextBookmark */ = 6F7FD88513490492005ED486 /* PBXTextBookmark */;
+			6F7FD88613490492005ED486 /* PBXTextBookmark */ = 6F7FD88613490492005ED486 /* PBXTextBookmark */;
+			6F7FD88713490492005ED486 /* PBXTextBookmark */ = 6F7FD88713490492005ED486 /* PBXTextBookmark */;
+			6F7FD88813490492005ED486 /* PBXTextBookmark */ = 6F7FD88813490492005ED486 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6FD36D1B134265A600303181 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6F2A9588134BA98A0042C437 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6FD36D321342675400303181 /* CollapsableTableView.h */;
+		name = "CollapsableTableView.h: 17";
+		rLen = 0;
+		rLoc = 428;
+		rType = 0;
+		vrLen = 553;
+		vrLoc = 0;
+	};
+	6F2A9589134BA98A0042C437 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6FD36D331342675400303181 /* CollapsableTableView.m */;
+		name = "CollapsableTableView.m: 44";
+		rLen = 0;
+		rLoc = 921;
+		rType = 0;
+		vrLen = 1708;
+		vrLoc = 398;
+	};
+	6F2A95BA134BB0B80042C437 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6FD36D331342675400303181 /* CollapsableTableView.m */;
+		name = "CollapsableTableView.m: 43";
+		rLen = 0;
+		rLoc = 920;
+		rType = 0;
+		vrLen = 1730;
+		vrLoc = 30;
+	};
+	6F66EF15134651E900983C6B /* CollapsableTableViewHeaderViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1039, 741}}";
+			sepNavSelRange = "{697, 0}";
+			sepNavVisRange = "{0, 771}";
+		};
+	};
+	6F66EF16134651E900983C6B /* CollapsableTableViewHeaderViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1300}}";
+			sepNavSelRange = "{355, 0}";
+			sepNavVisRange = "{0, 1454}";
+		};
+	};
+	6F7FD7941348EAA7005ED486 /* TapDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1039, 741}}";
+			sepNavSelRange = "{306, 0}";
+			sepNavVisRange = "{0, 312}";
+		};
+	};
+	6F7FD7A91348F110005ED486 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6F7FD7941348EAA7005ED486 /* TapDelegate.h */;
+		name = "TapDelegate.h: 15";
+		rLen = 0;
+		rLoc = 306;
+		rType = 0;
+		vrLen = 312;
+		vrLoc = 0;
+	};
+	6F7FD8431348FF08005ED486 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6F66EF15134651E900983C6B /* CollapsableTableViewHeaderViewController.h */;
+		name = "CollapsableTableViewHeaderViewController.h: 27";
+		rLen = 0;
+		rLoc = 697;
+		rType = 0;
+		vrLen = 771;
+		vrLoc = 0;
+	};
+	6F7FD84613490014005ED486 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6F66EF16134651E900983C6B /* CollapsableTableViewHeaderViewController.m */;
+		name = "CollapsableTableViewHeaderViewController.m: 15";
+		rLen = 0;
+		rLoc = 355;
+		rType = 0;
+		vrLen = 1454;
+		vrLoc = 0;
+	};
+	6F7FD88513490492005ED486 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CollapsableTableViewViewController.h */;
+		name = "CollapsableTableViewViewController.h: 12";
+		rLen = 0;
+		rLoc = 321;
+		rType = 0;
+		vrLen = 332;
+		vrLoc = 0;
+	};
+	6F7FD88613490492005ED486 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CollapsableTableViewAppDelegate.h */;
+		name = "CollapsableTableViewAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	6F7FD88713490492005ED486 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CollapsableTableViewAppDelegate.m */;
+		name = "CollapsableTableViewAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 323;
+		rType = 0;
+		vrLen = 2035;
+		vrLoc = 0;
+	};
+	6F7FD88813490492005ED486 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CollapsableTableViewViewController.m */;
+		name = "CollapsableTableViewViewController.m: 66";
+		rLen = 0;
+		rLoc = 1616;
+		rType = 0;
+		vrLen = 1685;
+		vrLoc = 1187;
+	};
+	6FD36D0B1342659600303181 /* CollapsableTableView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CollapsableTableView;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6FD36D1B134265A600303181 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6FD36D1C134265A600303181 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6FD36D321342675400303181 /* CollapsableTableView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1039, 741}}";
+			sepNavSelRange = "{428, 0}";
+			sepNavVisRange = "{0, 553}";
+		};
+	};
+	6FD36D331342675400303181 /* CollapsableTableView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1643, 3666}}";
+			sepNavSelRange = "{920, 0}";
+			sepNavVisRange = "{30, 1730}";
+		};
+	};
+}

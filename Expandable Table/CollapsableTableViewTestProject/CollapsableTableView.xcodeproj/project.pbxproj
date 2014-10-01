@@ -1,0 +1,344 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* CollapsableTableViewAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* CollapsableTableViewAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* CollapsableTableViewViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* CollapsableTableViewViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* CollapsableTableViewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* CollapsableTableViewViewController.m */; };
+		6F4E5C3D1478ED0E00C66992 /* CollapsableTableViewTapRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4E5C3C1478ED0E00C66992 /* CollapsableTableViewTapRecognizer.m */; };
+		6F603D8A13F723F400143194 /* CollapsableTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F603D8613F723F400143194 /* CollapsableTableView.m */; };
+		6F603D8B13F723F400143194 /* CollapsableTableViewHeaderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F603D8813F723F400143194 /* CollapsableTableViewHeaderViewController.m */; };
+		6F603D8F13F7240B00143194 /* CollapsableTableViewHeaderViewGrouped.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F603D8C13F7240B00143194 /* CollapsableTableViewHeaderViewGrouped.xib */; };
+		6F603D9013F7240B00143194 /* CollapsableTableViewHeaderViewPlain.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6F603D8D13F7240B00143194 /* CollapsableTableViewHeaderViewPlain.xib */; };
+		6F603D9113F7240B00143194 /* plaintableheader.png in Resources */ = {isa = PBXBuildFile; fileRef = 6F603D8E13F7240B00143194 /* plaintableheader.png */; };
+		6FB654A71803496A00CBA956 /* CollapsableTableViewHeaderViewGrouped_iOS7.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6FB654A61803496A00CBA956 /* CollapsableTableViewHeaderViewGrouped_iOS7.xib */; };
+		6FB654A918034FA600CBA956 /* CollapsableTableViewFooterViewGrouped_iOS7.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6FB654A818034FA600CBA956 /* CollapsableTableViewFooterViewGrouped_iOS7.xib */; };
+		6FB654AB180350A700CBA956 /* CollapsableTableViewHeaderViewPlain_iOS7.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6FB654AA180350A700CBA956 /* CollapsableTableViewHeaderViewPlain_iOS7.xib */; };
+		6FB654AD1803560D00CBA956 /* CollapsableTableViewFooterViewPlain_iOS7.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6FB654AC1803560D00CBA956 /* CollapsableTableViewFooterViewPlain_iOS7.xib */; };
+		6FB678CE1684E18C00E8C7F4 /* CollapsableTableViewFooterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6FB678CD1684E18C00E8C7F4 /* CollapsableTableViewFooterViewController.m */; };
+		6FEC6C27167CA815003165AB /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FEC6C26167CA815003165AB /* Default-568h@2x.png */; };
+		6FEC6C2A167CAD64003165AB /* CollapsableTableViewFooterViewGrouped.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6FEC6C28167CAD64003165AB /* CollapsableTableViewFooterViewGrouped.xib */; };
+		6FEC6C2B167CAD64003165AB /* CollapsableTableViewFooterViewPlain.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6FEC6C29167CAD64003165AB /* CollapsableTableViewFooterViewPlain.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* CollapsableTableViewAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollapsableTableViewAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* CollapsableTableViewAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollapsableTableViewAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* CollapsableTableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollapsableTableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* CollapsableTableViewViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CollapsableTableViewViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* CollapsableTableViewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollapsableTableViewViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* CollapsableTableViewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollapsableTableViewViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* CollapsableTableView_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollapsableTableView_Prefix.pch; sourceTree = "<group>"; };
+		6F4E5C3B1478ED0E00C66992 /* CollapsableTableViewTapRecognizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CollapsableTableViewTapRecognizer.h; path = CollapsableTableView/Classes/CollapsableTableViewTapRecognizer.h; sourceTree = SOURCE_ROOT; };
+		6F4E5C3C1478ED0E00C66992 /* CollapsableTableViewTapRecognizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CollapsableTableViewTapRecognizer.m; path = CollapsableTableView/Classes/CollapsableTableViewTapRecognizer.m; sourceTree = SOURCE_ROOT; };
+		6F603D8513F723F400143194 /* CollapsableTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CollapsableTableView.h; path = CollapsableTableView/Classes/CollapsableTableView.h; sourceTree = SOURCE_ROOT; };
+		6F603D8613F723F400143194 /* CollapsableTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CollapsableTableView.m; path = CollapsableTableView/Classes/CollapsableTableView.m; sourceTree = SOURCE_ROOT; };
+		6F603D8713F723F400143194 /* CollapsableTableViewHeaderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CollapsableTableViewHeaderViewController.h; path = CollapsableTableView/Classes/CollapsableTableViewHeaderViewController.h; sourceTree = SOURCE_ROOT; };
+		6F603D8813F723F400143194 /* CollapsableTableViewHeaderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CollapsableTableViewHeaderViewController.m; path = CollapsableTableView/Classes/CollapsableTableViewHeaderViewController.m; sourceTree = SOURCE_ROOT; };
+		6F603D8913F723F400143194 /* TapDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TapDelegate.h; path = CollapsableTableView/Classes/TapDelegate.h; sourceTree = SOURCE_ROOT; };
+		6F603D8C13F7240B00143194 /* CollapsableTableViewHeaderViewGrouped.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CollapsableTableViewHeaderViewGrouped.xib; path = CollapsableTableView/CollapsableTableViewHeaderViewGrouped.xib; sourceTree = "<group>"; };
+		6F603D8D13F7240B00143194 /* CollapsableTableViewHeaderViewPlain.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CollapsableTableViewHeaderViewPlain.xib; path = CollapsableTableView/CollapsableTableViewHeaderViewPlain.xib; sourceTree = "<group>"; };
+		6F603D8E13F7240B00143194 /* plaintableheader.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = plaintableheader.png; path = CollapsableTableView/plaintableheader.png; sourceTree = "<group>"; };
+		6FB654A61803496A00CBA956 /* CollapsableTableViewHeaderViewGrouped_iOS7.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CollapsableTableViewHeaderViewGrouped_iOS7.xib; path = CollapsableTableView/CollapsableTableViewHeaderViewGrouped_iOS7.xib; sourceTree = "<group>"; };
+		6FB654A818034FA600CBA956 /* CollapsableTableViewFooterViewGrouped_iOS7.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CollapsableTableViewFooterViewGrouped_iOS7.xib; path = CollapsableTableView/CollapsableTableViewFooterViewGrouped_iOS7.xib; sourceTree = "<group>"; };
+		6FB654AA180350A700CBA956 /* CollapsableTableViewHeaderViewPlain_iOS7.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CollapsableTableViewHeaderViewPlain_iOS7.xib; path = CollapsableTableView/CollapsableTableViewHeaderViewPlain_iOS7.xib; sourceTree = "<group>"; };
+		6FB654AC1803560D00CBA956 /* CollapsableTableViewFooterViewPlain_iOS7.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CollapsableTableViewFooterViewPlain_iOS7.xib; path = CollapsableTableView/CollapsableTableViewFooterViewPlain_iOS7.xib; sourceTree = "<group>"; };
+		6FB678CB1684E18C00E8C7F4 /* CollapsableTableViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CollapsableTableViewDelegate.h; path = CollapsableTableView/Classes/CollapsableTableViewDelegate.h; sourceTree = SOURCE_ROOT; };
+		6FB678CC1684E18C00E8C7F4 /* CollapsableTableViewFooterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CollapsableTableViewFooterViewController.h; path = CollapsableTableView/Classes/CollapsableTableViewFooterViewController.h; sourceTree = SOURCE_ROOT; };
+		6FB678CD1684E18C00E8C7F4 /* CollapsableTableViewFooterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CollapsableTableViewFooterViewController.m; path = CollapsableTableView/Classes/CollapsableTableViewFooterViewController.m; sourceTree = SOURCE_ROOT; };
+		6FEC6C26167CA815003165AB /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		6FEC6C28167CAD64003165AB /* CollapsableTableViewFooterViewGrouped.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CollapsableTableViewFooterViewGrouped.xib; path = CollapsableTableView/CollapsableTableViewFooterViewGrouped.xib; sourceTree = "<group>"; };
+		6FEC6C29167CAD64003165AB /* CollapsableTableViewFooterViewPlain.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CollapsableTableViewFooterViewPlain.xib; path = CollapsableTableView/CollapsableTableViewFooterViewPlain.xib; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* CollapsableTableView-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CollapsableTableView-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				6FFBFCAC13F6DF7D00E4EA26 /* CollapsableTableView */,
+				1D3623240D0F684500981E51 /* CollapsableTableViewAppDelegate.h */,
+				1D3623250D0F684500981E51 /* CollapsableTableViewAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* CollapsableTableViewViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* CollapsableTableViewViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* CollapsableTableView.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* CollapsableTableView_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6FEC6C26167CA815003165AB /* Default-568h@2x.png */,
+				6FFBFCAD13F6DF9500E4EA26 /* CollapsableTableView */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* CollapsableTableView-Info.plist */,
+				2899E5210DE3E06400AC0155 /* CollapsableTableViewViewController.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6FFBFCAC13F6DF7D00E4EA26 /* CollapsableTableView */ = {
+			isa = PBXGroup;
+			children = (
+				6FB678CB1684E18C00E8C7F4 /* CollapsableTableViewDelegate.h */,
+				6FB678CC1684E18C00E8C7F4 /* CollapsableTableViewFooterViewController.h */,
+				6FB678CD1684E18C00E8C7F4 /* CollapsableTableViewFooterViewController.m */,
+				6F603D8513F723F400143194 /* CollapsableTableView.h */,
+				6F603D8613F723F400143194 /* CollapsableTableView.m */,
+				6F603D8713F723F400143194 /* CollapsableTableViewHeaderViewController.h */,
+				6F603D8813F723F400143194 /* CollapsableTableViewHeaderViewController.m */,
+				6F603D8913F723F400143194 /* TapDelegate.h */,
+				6F4E5C3B1478ED0E00C66992 /* CollapsableTableViewTapRecognizer.h */,
+				6F4E5C3C1478ED0E00C66992 /* CollapsableTableViewTapRecognizer.m */,
+			);
+			name = CollapsableTableView;
+			sourceTree = "<group>";
+		};
+		6FFBFCAD13F6DF9500E4EA26 /* CollapsableTableView */ = {
+			isa = PBXGroup;
+			children = (
+				6FEC6C28167CAD64003165AB /* CollapsableTableViewFooterViewGrouped.xib */,
+				6FEC6C29167CAD64003165AB /* CollapsableTableViewFooterViewPlain.xib */,
+				6F603D8C13F7240B00143194 /* CollapsableTableViewHeaderViewGrouped.xib */,
+				6F603D8D13F7240B00143194 /* CollapsableTableViewHeaderViewPlain.xib */,
+				6FB654A61803496A00CBA956 /* CollapsableTableViewHeaderViewGrouped_iOS7.xib */,
+				6FB654A818034FA600CBA956 /* CollapsableTableViewFooterViewGrouped_iOS7.xib */,
+				6FB654AA180350A700CBA956 /* CollapsableTableViewHeaderViewPlain_iOS7.xib */,
+				6FB654AC1803560D00CBA956 /* CollapsableTableViewFooterViewPlain_iOS7.xib */,
+				6F603D8E13F7240B00143194 /* plaintableheader.png */,
+			);
+			name = CollapsableTableView;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* CollapsableTableView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "CollapsableTableView" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CollapsableTableView;
+			productName = CollapsableTableView;
+			productReference = 1D6058910D05DD3D006BFB54 /* CollapsableTableView.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "CollapsableTableView" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* CollapsableTableView */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				6FB654AD1803560D00CBA956 /* CollapsableTableViewFooterViewPlain_iOS7.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* CollapsableTableViewViewController.xib in Resources */,
+				6F603D8F13F7240B00143194 /* CollapsableTableViewHeaderViewGrouped.xib in Resources */,
+				6FB654A71803496A00CBA956 /* CollapsableTableViewHeaderViewGrouped_iOS7.xib in Resources */,
+				6F603D9013F7240B00143194 /* CollapsableTableViewHeaderViewPlain.xib in Resources */,
+				6FB654A918034FA600CBA956 /* CollapsableTableViewFooterViewGrouped_iOS7.xib in Resources */,
+				6F603D9113F7240B00143194 /* plaintableheader.png in Resources */,
+				6FEC6C27167CA815003165AB /* Default-568h@2x.png in Resources */,
+				6FEC6C2A167CAD64003165AB /* CollapsableTableViewFooterViewGrouped.xib in Resources */,
+				6FB654AB180350A700CBA956 /* CollapsableTableViewHeaderViewPlain_iOS7.xib in Resources */,
+				6FEC6C2B167CAD64003165AB /* CollapsableTableViewFooterViewPlain.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* CollapsableTableViewAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* CollapsableTableViewViewController.m in Sources */,
+				6F603D8A13F723F400143194 /* CollapsableTableView.m in Sources */,
+				6F603D8B13F723F400143194 /* CollapsableTableViewHeaderViewController.m in Sources */,
+				6F4E5C3D1478ED0E00C66992 /* CollapsableTableViewTapRecognizer.m in Sources */,
+				6FB678CE1684E18C00E8C7F4 /* CollapsableTableViewFooterViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CollapsableTableView_Prefix.pch;
+				INFOPLIST_FILE = "CollapsableTableView-Info.plist";
+				PRODUCT_NAME = CollapsableTableView;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CollapsableTableView_Prefix.pch;
+				INFOPLIST_FILE = "CollapsableTableView-Info.plist";
+				PRODUCT_NAME = CollapsableTableView;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "CollapsableTableView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "CollapsableTableView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
